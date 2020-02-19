@@ -1,2 +1,2 @@
 # edi-project
-Travel assistance for visually impaired poeple
+Travel assistance for visually impaired people
